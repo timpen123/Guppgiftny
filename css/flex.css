@@ -1,6 +1,7 @@
 
 /* Display inställningar */
 .d-flex {display: flex }
+.d-none {display: none;}
 
 
 /**********
@@ -9,6 +10,7 @@
 .flex-row { flex-direction: row;}
 .flex-column {flex-direction: column;}
 .flex-grow{ flex-grow: 1;  }
+.flex-rowreverse {flex-direction: row-reverse;}
 
 /***  Ailgn och Justift ***/
 

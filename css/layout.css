@@ -12,23 +12,30 @@
 .ml-auto, .mx-auto {margin-left: auto;} 
 
 .mt-0, .my-0 {margin-top: var(--distance-0);}  /* 0rem */
-.mt-0, .my-0 {margin-bottom: var(--distance-0);}
+.mb-0, .my-0 {margin-bottom: var(--distance-0);}
 .mt-1, .my-1 {margin-top: var(--distance-1);}
-.mt-1, .my-1 {margin-bottom: var(--distance-1);}/* .25rem */
+.mb-1, .my-1 {margin-bottom: var(--distance-1);}/* .25rem */
 .mt-2, .my-2 {margin-top: var(--distance-2);}
-.mt-2, .my-2 {margin-bottom: var(--distance-2);} /* .5rem */
+.mb-2, .my-2 {margin-bottom: var(--distance-2);} /* .5rem */
 .mt-4, .my-4 {margin-top: var(--distance-4);}
-.mt-4, .my-4 {margin-bottom: var(--distance-4);}  /* 1rem */
+.mb-4, .my-4 {margin-bottom: var(--distance-4);}  /* 1rem */
 .mt-6, .my-6 {margin-top: var(--distance-6);}
-.mt-6, .my-6 {margin-bottom: var(--distance-6);}  /* 1.5rem */
+.mb-6, .my-6 {margin-bottom: var(--distance-6);}  /* 1.5rem */
 .mt-8, .my-8 {margin-top: var(--distance-8);}
-.mt-8, .my-8 {margin-bottom: var(--distance-8);}  /* 2rem */
+.mb-8, .my-8 {margin-bottom: var(--distance-8);}  /* 2rem */
 .mt-10, .my-10 {margin-top: var(--distance-10);}
-.mt-10, .my-10 {margin-bottom: var(--distance-10);}  /* 2.5rem */
+.mb-10, .my-10 {margin-bottom: var(--distance-10);}  /* 2.5rem */
 .mt-12, .my-12 {margin-top: var(--distance-12);}
-.mt-12, .my-12 {margin-bottom: var(--distance-12);}  /* 3rem */
+.mb-12, .my-12 {margin-bottom: var(--distance-12);}  /* 3rem */
 .mt-15, .my-15 {margin-top: var(--distance-15);}
-.mt-15, .my-15 {margin-bottom: var(--distance-15);}  /* 4rem */
+.mb-15, .my-15 {margin-bottom: var(--distance-15);}  /* 4rem */
+
+.mr-4, .mx-4 { margin-right: var(--distance-4); }
+.ml-4, .mx-4 { margin-left: var(--distance-4); }
+.mr-6, .mx-6 { margin-right: var(--distance-6); }
+.ml-6, .mx-6 { margin-left: var(--distance-6); }
+
+
 
 /****Padding****/
 .p-4 {padding: var(--distance-4);}
@@ -73,6 +80,8 @@ nav div a:not(:first-child){margin-left: var(--distance-12);}
 /****Borders****/
 .border-small-white {border: var(--border-xs-white);}
 .border-radius {border-radius: var(--border-radius-sm);}
+.border-bottom-xs {border-bottom: var(--border-xs);}
+
 /****Coloured Bar****/
 .bar-height{ height: .3rem;}
 
