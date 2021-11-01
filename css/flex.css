@@ -2,12 +2,16 @@
 /* Display inställningar */
 .d-flex {display: flex }
 
+
 /**********
 ***Flex****
 **********/
+.flex-row { flex-direction: row;}
+.flex-column {flex-direction: column;}
 .flex-grow{ flex-grow: 1;  }
 
 /***  Ailgn och Justift ***/
 
 .justify-content-between {justify-content: space-between;}
 .align-items-center{align-items: center;}
+.justifty-content-center {justify-content: center;}
