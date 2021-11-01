@@ -6,3 +6,8 @@
 ***Flex****
 **********/
 .flex-grow{ flex-grow: 1;  }
+
+/***  Ailgn och Justift ***/
+
+.justify-content-between {justify-content: space-between;}
+.align-items-center{align-items: center;}
