@@ -1,0 +1,8 @@
+
+/* Display inställningar */
+.d-flex {display: flex }
+
+/**********
+***Flex****
+**********/
+.flex-grow{ flex-grow: 1;  }
