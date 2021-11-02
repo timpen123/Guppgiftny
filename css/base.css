@@ -129,13 +129,13 @@ body{
 /* border färger */
 
 .border-color-primary{border-color: var(--color-primary)!important;}
-.border-color-secondary{color: var(--color-secondary)!important;}
-.border-color-success{color: var(--color-success)!important;}
-.border-color-info{color: var(--color-info)!important;}
-.border-color-warning{color: var(--color-warning)!important;}
-.border-color-danger{color: var(--color-danger)!important;}
-.border-color-light{color: var(--color-light)!important;}
-.border-color-dark{color: var(--color-dark)!important;}
-.border-color-white{color: var(--color-white)!important;}
-.border-color-cozy{color: var(--color-cozy)!important;}
+.border-color-secondary{border-color: var(--color-secondary)!important;}
+.border-color-success{border-color: var(--color-success)!important;}
+.border-color-info{border-color: var(--color-info)!important;}
+.border-color-warning{border-color: var(--color-warning)!important;}
+.border-color-danger{border-color: var(--color-danger)!important;}
+.border-color-light{border-color: var(--color-light)!important;}
+.border-color-dark{border-color: var(--color-dark)!important;}
+.border-color-white{border-color: var(--color-white)!important;}
+.border-color-cozy{border-color: var(--color-cozy)!important;}
 
