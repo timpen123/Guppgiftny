@@ -1,6 +1,7 @@
 
 /**** Width ****/
-.max.width{max-width: 192rem;}
+.max-width{max-width: 192rem;}
+.card-width{max-width: 60rem;}
 
 /****Positions ****/
 .position-relative {position: relative !important;}
@@ -60,6 +61,7 @@
 .text-decoration-none {text-decoration: none; }
 .text-center {text-align: center;}
 .text-uppercase {text-transform: uppercase;}
+.text-bold {font-weight: bold; }
 
 .text-size-xxs {font-size: var(--display-XXS); }
 .text-size-xs {font-size: var(--display-XS); }
@@ -100,9 +102,10 @@ nav div a:not(:first-child){margin-left: var(--distance-12);}
 /****Coloured Bar****/
 .bar-height{ height: .3rem;}
 
-/****logo bild ****/
+/****Images ****/
 
-.logo-width{max-width: 13rem;}
+.logo-width {max-width: 13rem; }
+.img-lg-width {max-width: 60%; }
 
 /**** Slideshow ****/
 .slider-width {width: 400%;} /* 100% per bild */
