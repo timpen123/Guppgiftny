@@ -17,5 +17,6 @@
 /***  Ailgn och Justift ***/
 
 .justify-content-between {justify-content: space-between;}
-.align-items-center{align-items: center;}
+.justify-content-around {justify-content: space-around;}
+.align-items-center {align-items: center;}
 .justifty-content-center {justify-content: center;}
