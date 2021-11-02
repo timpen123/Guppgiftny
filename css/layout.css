@@ -50,7 +50,10 @@
 .p-12 {padding: var(--distance-12);}
 .p-15 {padding: var(--distance-15);}
 
-
+.pl-4, .px-4 {padding-left: var(--distance-4);}
+.pr-4, .px-4 {padding-right: var(--distance-4);}
+.pl-12, .px-12 {padding-left: var(--distance-12);}
+.pr-12, .px-12 {padding-right: var(--distance-12);}
 /****typography ****/
 .text-decoration-none {text-decoration: none; }
 .text-center {text-align: center;}
@@ -72,9 +75,10 @@
 /****Circle****/
 .circle { border-radius: 100%;}
 
+
 /****Shadow ****/
 .shadow-sm { box-shadow: var(--shadow-small-light);}
-
+.shadow-lg {box-shadow: var(--shadow-large-light);}
 /****Bottuns ****/
 nav div a:not(:first-child){margin-left: var(--distance-12);}
 .icon-badge {
@@ -87,6 +91,7 @@ nav div a:not(:first-child){margin-left: var(--distance-12);}
 .border-small-white {border: var(--border-xs-white);}
 .border-radius {border-radius: var(--border-radius-sm);}
 .border-bottom-xs {border-bottom: var(--border-xs);}
+.border-sm { border: var(--border-sm); }
 
 /****Coloured Bar****/
 .bar-height{ height: .3rem;}
@@ -112,3 +117,9 @@ nav div a:not(:first-child){margin-left: var(--distance-12);}
 }
 
 
+/**** Features****/
+.f-width {max-width: 33%;}
+
+/**** Icons****/
+.icon-feature {width: 7.6rem; height: 7.6rem; padding: 0.375rem; }
+.icon-circle { width: 6.2rem; height: 6.2rem; line-height: 6rem; }

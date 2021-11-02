@@ -120,7 +120,7 @@ body{
 .text-success{color: var(--color-success);}
 .text-info{color: var(--color-info);}
 .text-warning{color: var(--color-warning);}
-.text-danger{color: var(--color-warning);}
+.text-danger{color: var(--color-danger);}
 .text-light{color: var(--color-light);}
 .text-dark{color: var(--color-dark);}
 .text-white{color: var(--color-white);}

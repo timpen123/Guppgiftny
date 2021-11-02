@@ -12,6 +12,7 @@
 .flex-column {flex-direction: column;}
 .flex-grow{ flex-grow: 1;  }
 .flex-rowreverse {flex-direction: row-reverse;}
+.flex-wrap { flex-wrap: wrap; }
 
 /***  Ailgn och Justift ***/
 
