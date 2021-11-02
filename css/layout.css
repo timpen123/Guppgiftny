@@ -134,7 +134,7 @@ nav div a:not(:first-child){margin-left: var(--distance-12);}
 
 
 /**** Features****/
-.f-width {max-width: 33%;}
+.f-width { max-width: 33%; }
 
 /**** Icons****/
 .icon-feature {width: 7.6rem; height: 7.6rem; padding: 0.375rem; }
